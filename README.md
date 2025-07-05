@@ -1,1 +1,1 @@
-Hi! I'm Alexis. I like solving problems and I'm interested in Linux, robotics, embedded systems, and computer architecture. In my free time I make quality desktops.
+Hi! I'm Alexis. I like solving problems and making stuff. I'm interested in Linux, robotics, embedded systems, and computer architecture.
