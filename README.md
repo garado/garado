@@ -1,7 +1,7 @@
 Hi! I'm Alexis. I like solving problems and making stuff. I'm interested in Linux, embedded software, and computer architecture.
 
 ## Projects
-- FOSS apps for the Light Phone III: [Metronome](https://github.com/garado/metronome), [Tuner](https://github.com/garado/strings), [Dictionary](https://github.com/garado/dictionary), [Outdoor Maps](https://github.com/garado/light-topographic), [GPSLogger Redesign](https://github.com/garado/light-gpslogger) (and many more planned!)
+- FOSS apps for the Light Phone III: [Metronome](https://github.com/garado/metronome), [Tuner](https://github.com/garado/strings), [Dictionary](https://github.com/garado/dictionary), [Topographic](https://github.com/garado/light-topographic), [GPSLogger redesign](https://github.com/garado/light-gpslogger) (and many more planned!)
 - Desktop customization
     - [Nix config for laptop and home server](https://github.com/garado/auriga)
     - [AwesomeWM desktop config](https://github.com/garado/cozy)
